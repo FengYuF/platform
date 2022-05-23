@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "idel",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8fad644e-d24e-42b2-a4d1-7d367ab876b7"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "6df9a0df-8338-48b1-8e77-33dbea57910d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "82b9ebed-fdf5-4aff-93c2-9a8a091513df"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "7011a454-8b27-4f92-83dc-473dfb4263fc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
